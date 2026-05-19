@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+}
+
+.link-container{
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-cover{
+    display: flex;
+    align-items: center;
+}
+
+
+.list-item{
+margin-bottom: 25px; 
+}
+
+.track{
+   color: burlywood;
+    background-color: rgb(150, 98, 2);
+padding: 10px;
+    border-radius: 5px;
+    }
