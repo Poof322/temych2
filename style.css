@@ -47,4 +47,12 @@ margin-bottom: 25px;
     background-color: rgb(150, 98, 2);
     padding: 10px 30px;
     border-radius: 5px;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    }
+
+
+    .track:hover,
+    .track:focus{
+        color: chocolate;
+        background-color: rgb(241, 190, 95);;
     }
